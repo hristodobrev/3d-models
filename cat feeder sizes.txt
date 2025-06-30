@@ -1,0 +1,4 @@
+Cam size - 12mm radius
+41mm x 23mm
+Cam center is 10mm below the top
+9mm from the case edge to the ESP side
